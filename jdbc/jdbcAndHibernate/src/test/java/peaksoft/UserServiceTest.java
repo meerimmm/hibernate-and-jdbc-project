@@ -12,9 +12,9 @@ public class UserServiceTest {
 
     private final UserService userService = new UserServiceImpl();
 
-    private final String testName = "Kanat";
-    private final String testLastName = "Subanov";
-    private final byte testAge = 23;
+    private final String testName = "Meerim";
+    private final String testLastName = "Ismanalieva";
+    private final byte testAge = 18;
 
     @Test
     public void dropUsersTable() {
